@@ -1,67 +1,92 @@
 <div align="center">
- 
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-
-
-  <h1>Hi, I'm Zotiax <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /></h1>
-
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Roblox+Script+Developer;Lua+Expert;Learning+C%23+and+C%2B%2B;Based+in+Poland" alt="Typing SVG" />
-  </a>
+  <img src="https://i.pinimg.com/originals/f3/0d/17/f30d17675f6966144eb9856f6424e830.gif" width="100%" style="border-radius: 10px;" />
 </div>
 
-<div align="center">
+<br/>
 
-  <br />
-  <b>18 y/o | 🇵🇱 Poland | Game Automation & Scripting</b>
-  <br />
-  <br />
-  I focus on developing complex scripts for Roblox, exploring game mechanics, and software development. Currently bridging the gap between high-level scripting (Lua) and low-level programming (C++/C#).
-  <br />
+<table align="center" border="0" bgcolor="none">
+  <tr>
+    <td width="60%" align="left" valign="center">
+      
+      <h1>
+        Hi, I'm <span style="color: #bd93f9;">Zotiax</span> 
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      </h1>
+
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&width=435&lines=Roblox+Script+Developer;Lua+%2F+Python+Expert;Learning+C%23+and+C%2B%2B;Based+in+Poland+🇵🇱" alt="Typing SVG" />
+      </a>
+
+      <br/><br/>
+
+      <samp>
+        Currently mainly developing <b>Roblox scripts & exploits</b>. <br/>
+        I bridge the gap between Lua scripting and low-level software dev.<br/>
+        <br/>
+        🔭 <b>Working on:</b> Advanced Game Automation<br/>
+        🌱 <b>Learning:</b> C++ Memory Management<br/>
+        ⚡ <b>Fun fact:</b> I use Arch (jk, Windows 11)<br/>
+        📫 <b>Contact:</b> Zotiax
+      </samp>
+
+      <br/><br/>
+
+      <p>
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+      </p>
+
+    </td>
+    
+    <td width="40%" align="center">
+      <img src="https://media.tenor.com/BfM8gL7gT24AAAAi/anime-aesthetic.gif" width="100%" style="border-radius: 15px;" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
-<br />
-
+<br/>
 
 <div align="center">
-  <h2>🛠️ Languages & Tools</h2>
-  <br />
-
+  <h2>⚡ Tech Stack & Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,python,js,html,css&perline=5&theme=dark" />
-    <br /><br />
-    <img src="https://skillicons.dev/icons?i=cs,cpp,vscode,visualstudio,github&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=lua,python,js,html,css,cs,cpp,vscode,visualstudio,github&perline=10&theme=dark" />
   </a>
 </div>
 
-<br />
-<br />
+<br/>
 
-<!-- Stats Section (This adds the "Length" and "Nice" look) -->
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
-  
-
-  <img src="https://github-readme-stats.vercel.app/api?username=zotiax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="zotiax's stats" />
-  
-  <br />
-  
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zotiax&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=6" alt="zotiax's languages" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
-<br />
-
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zotiax&theme=tokyonight&hide_border=true&background=1a1b27" alt="zotiax's streak" />
+  <h2>📊 Zotiax's Analytics</h2>
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=zotiax&show_icons=true&theme=buefy&hide_border=true&bg_color=0d1117" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zotiax&layout=compact&theme=buefy&hide_border=true&bg_color=0d1117" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zotiax&theme=buefy&hide_border=true&background=0d1117" />
+
 </div>
 
-<br />
-
+<br/><br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="border-radius: 10px;" />
+  <br/>
+  <samp>Made by Zotiax</samp>
 </div>
